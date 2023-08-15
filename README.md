@@ -23,7 +23,7 @@ Data preprocessing: Preparing the data for model training.
 Splitting data: Splitting the dataset into training and testing sets.
 Building models: Building and training machine learning models using various algorithms.
 Making predictions: Using trained models to make predictions on test data.
-Evaluating models: Evaluating the performance of models using accuracy, precision, recall, F1-score, confusion matrix, ROC-AUC curve, etc.
+Evaluating models: Evaluating the performance of models using accuracy, precision, confusion matrix, ROC-AUC curve, etc.
 Follow the instructions in the notebook to execute code cells related to model building and evaluation.
 
 As a result, you will have a trained machine learning model capable of predicting loan approval status based on input features.
